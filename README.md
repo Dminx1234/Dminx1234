@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dminx1234
+- 👋 Hi, I’m @Dminx
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning Linux 
 - 💞️ I’m looking to collaborate on Unity Projects
